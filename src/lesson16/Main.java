@@ -43,6 +43,7 @@ public class Main {
                     application.printTotalSpendings();
                     break;
                 default:
+                    System.out.println("Incorrect input. Please try again");
                     break;
             }
 
